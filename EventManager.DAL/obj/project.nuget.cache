@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y3CQeePamrnUymOT2FJbd1uyPVGIAz7WVF/duOAcpHykQfuc+GVotfmdZWZdLVj3OMjVuR0J/2unMEUrCHIl5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arnaud\\Desktop\\Dev_Back\\GestionEvent\\Techni_2022_IA__ASP_Labo\\EventManager.DAL\\EventManager.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arnaud\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

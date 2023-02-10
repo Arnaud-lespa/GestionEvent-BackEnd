@@ -1,0 +1,29 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Activity] (Table)
+       [dbo].[Member] (Table)
+       [dbo].[Registration] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Activity] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Activity] (Contrainte par défaut)
+       [dbo].[FK_Activity__Creator] (Clé étrangère)
+       [dbo].[FK_Registration__Activity] (Clé étrangère)
+       [dbo].[FK_Registration__Member] (Clé étrangère)
+       [dbo].[CK_Activity__EventDate] (Contrainte de validation)
+       [dbo].[CK_Activity__MaxGuest] (Contrainte de validation)
+       [dbo].[CK_Registration__NbGuest] (Contrainte de validation)
+       [dbo].[ActivityUpdateTrigger] (Déclencheur)
+       [dbo].[V_Activity] (Vue)
+       [dbo].[V_Member] (Vue)
+       [dbo].[V_Registration] (Vue)
+
+** Actions de support

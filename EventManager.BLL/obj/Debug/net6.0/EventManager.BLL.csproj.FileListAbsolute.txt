@@ -1,0 +1,34 @@
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.BLL.deps.json
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.BLL.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.BLL.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.DAL.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.Domain.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.DAL.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.Domain.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.csproj.AssemblyReference.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.AssemblyInfoInputs.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.AssemblyInfo.cs
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.csproj.CopyComplete
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\refint\EventManager.BLL.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\ref\EventManager.BLL.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.BLL.deps.json
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.BLL.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.BLL.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.DAL.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.Domain.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.DAL.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\bin\Debug\net6.0\EventManager.Domain.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.csproj.AssemblyReference.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.AssemblyInfoInputs.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.AssemblyInfo.cs
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.csproj.CopyComplete
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\refint\EventManager.BLL.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\EventManager.BLL.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.BLL\obj\Debug\net6.0\ref\EventManager.BLL.dll

@@ -1,0 +1,16 @@
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\bin\Debug\EventManager.DB.dacpac
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\bin\Debug\EventManager.DB.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\bin\Debug\EventManager.DB.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\obj\Debug\EventManager.DB.sqlproj.AssemblyReference.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\obj\Debug\Model.xml
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\obj\Debug\refactor.xml
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\obj\Debug\postdeploy.sql
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\obj\Debug\predeploy.sql
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\obj\Debug\EventManager.DB.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\obj\Debug\EventManager.DB.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\bin\Debug\EventManager.DB.dacpac
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\bin\Debug\EventManager.DB.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\bin\Debug\EventManager.DB.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\obj\Debug\EventManager.DB.sqlproj.AssemblyReference.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\obj\Debug\EventManager.DB.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DB\obj\Debug\EventManager.DB.pdb

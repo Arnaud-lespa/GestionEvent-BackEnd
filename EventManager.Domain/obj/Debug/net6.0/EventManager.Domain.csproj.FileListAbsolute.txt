@@ -1,0 +1,24 @@
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\bin\Debug\net6.0\EventManager.Domain.deps.json
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\bin\Debug\net6.0\EventManager.Domain.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\bin\Debug\net6.0\EventManager.Domain.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.csproj.AssemblyReference.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.AssemblyInfo.cs
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\refint\EventManager.Domain.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\ref\EventManager.Domain.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\bin\Debug\net6.0\EventManager.Domain.deps.json
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\bin\Debug\net6.0\EventManager.Domain.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\bin\Debug\net6.0\EventManager.Domain.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.csproj.AssemblyReference.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.AssemblyInfo.cs
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\refint\EventManager.Domain.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\EventManager.Domain.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.Domain\obj\Debug\net6.0\ref\EventManager.Domain.dll

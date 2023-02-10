@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+HSj64CII0hVU+Eri7rlyMxzAyQLkqsz30VLftjiCcAmijmaDs32G2ezlpuBl40GgSB3A/hdKgP4oQbBgPkiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arnaud\\Desktop\\Dev_Back\\GestionEvent\\Techni_2022_IA__ASP_Labo\\EventManager.BLL\\EventManager.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arnaud\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Arnaud\\.nuget\\packages\\isopoh.cryptography.argon2\\1.1.12\\isopoh.cryptography.argon2.1.1.12.nupkg.sha512",
+    "C:\\Users\\Arnaud\\.nuget\\packages\\isopoh.cryptography.blake2b\\1.1.12\\isopoh.cryptography.blake2b.1.1.12.nupkg.sha512",
+    "C:\\Users\\Arnaud\\.nuget\\packages\\isopoh.cryptography.securearray\\1.1.12\\isopoh.cryptography.securearray.1.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

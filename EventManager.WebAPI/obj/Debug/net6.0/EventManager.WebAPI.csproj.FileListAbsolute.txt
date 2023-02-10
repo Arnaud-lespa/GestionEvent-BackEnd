@@ -1,0 +1,107 @@
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.WebAPI.exe
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.WebAPI.deps.json
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.WebAPI.runtimeconfig.json
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.WebAPI.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.WebAPI.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Dapper.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Isopoh.Cryptography.Argon2.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Isopoh.Cryptography.Blake2b.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Isopoh.Cryptography.SecureArray.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.BLL.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.DAL.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.Domain.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.BLL.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.DAL.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.Domain.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.csproj.AssemblyReference.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.AssemblyInfo.cs
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.EventManager.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EventManager.WebAPI.props
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EventManager.WebAPI.props
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EventManager.WebAPI.props
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\scopedcss\bundle\EventManager.WebAPI.styles.css
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.csproj.CopyComplete
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\refint\EventManager.WebAPI.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.genruntimeconfig.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\ref\EventManager.WebAPI.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.WebAPI.exe
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.WebAPI.deps.json
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.WebAPI.runtimeconfig.json
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.WebAPI.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.WebAPI.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Dapper.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Isopoh.Cryptography.Argon2.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Isopoh.Cryptography.Blake2b.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Isopoh.Cryptography.SecureArray.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.BLL.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.DAL.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.Domain.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.BLL.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.DAL.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\bin\Debug\net6.0\EventManager.Domain.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.csproj.AssemblyReference.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.AssemblyInfo.cs
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\scopedcss\bundle\EventManager.WebAPI.styles.css
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.csproj.CopyComplete
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\refint\EventManager.WebAPI.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\EventManager.WebAPI.genruntimeconfig.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.WebAPI\obj\Debug\net6.0\ref\EventManager.WebAPI.dll

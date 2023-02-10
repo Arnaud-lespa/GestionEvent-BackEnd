@@ -1,0 +1,30 @@
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\bin\Debug\net6.0\EventManager.DAL.deps.json
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\bin\Debug\net6.0\EventManager.DAL.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\bin\Debug\net6.0\EventManager.DAL.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\bin\Debug\net6.0\EventManager.Domain.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\bin\Debug\net6.0\EventManager.Domain.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.csproj.AssemblyReference.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.AssemblyInfoInputs.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.AssemblyInfo.cs
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.csproj.CopyComplete
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\refint\EventManager.DAL.dll
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.pdb
+C:\Users\Tom\OneDrive\Documents\Visual Studio 2022\repos\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\ref\EventManager.DAL.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\bin\Debug\net6.0\EventManager.DAL.deps.json
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\bin\Debug\net6.0\EventManager.DAL.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\bin\Debug\net6.0\EventManager.DAL.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\bin\Debug\net6.0\EventManager.Domain.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\bin\Debug\net6.0\EventManager.Domain.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.csproj.AssemblyReference.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.AssemblyInfoInputs.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.AssemblyInfo.cs
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.csproj.CopyComplete
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\refint\EventManager.DAL.dll
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\EventManager.DAL.pdb
+C:\Users\Arnaud\Desktop\GestionEventCorrection\Techni_2022_IA__ASP_Labo\EventManager.DAL\obj\Debug\net6.0\ref\EventManager.DAL.dll
